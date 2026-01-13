@@ -266,10 +266,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Dash community for dashboard framework
 - Climate science community for inspiration
 
-## Screenshots
-
-*Dashboard screenshots will be added here after running the application*
-
 ---
 
 If you find this project useful, please consider giving it a star!**

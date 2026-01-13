@@ -277,4 +277,4 @@ def update_charts(selected_countries, selected_sectors, year_range):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True, port=8050)
+    app.run(debug=True, port=8050)
