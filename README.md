@@ -251,11 +251,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 👤 Author
+## Author
 
-**Your Name**
-- GitHub: [@](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Hajer Talbi**
+- GitHub: [@Hajer45](https://github.com/Hajer45)
+- LinkedIn: [HajerTalbi](https://www.linkedin.com/in/hajer-talbi/)
 
 ---
 
